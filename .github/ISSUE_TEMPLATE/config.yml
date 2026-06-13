@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/privately-reporting-a-security-vulnerability
+    about: Read SECURITY.md, then report the issue privately in the affected repository.
+  - name: Ask a question
+    url: https://github.com/orgs/AtyaLibraries/discussions
+    about: Ask usage and support questions in GitHub Discussions.
