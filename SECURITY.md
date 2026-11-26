@@ -10,22 +10,24 @@
 
 ## Private disclosure
 
-Do not open a public issue for a suspected vulnerability. In the affected
-repository, open the **Security** tab, select **Advisories**, and choose
-**Report a vulnerability** to create a private GitHub Security Advisory.
-Include the impact, affected versions, reproduction steps, and any proposed
-fix.
-
-If the affected repository does not have private vulnerability reporting
-enabled, contact its maintainers privately and ask them to open a draft
-security advisory. Do not include vulnerability details in a public issue or
-discussion.
+Do not open a public issue for a suspected vulnerability. Every public
+repository in this organization has private vulnerability reporting enabled.
+In the affected repository, open the **Security** tab, select **Advisories**,
+and choose **Report a vulnerability** to create a private GitHub Security
+Advisory. Include the impact, affected versions, reproduction steps, and any
+proposed fix.
 
 ## Response targets
 
-The maintainers will acknowledge a complete report within 5 business days.
-Validation, remediation, and release timing depend on severity and complexity,
-but reporters will receive status updates through the private advisory.
+These are best-effort commitments from a single maintainer:
+
+- Acknowledgement of a report within 7 calendar days.
+- Initial assessment (accepted, needs information, or declined) within 30
+  days.
+- A status update in the private advisory at least every 30 days until the
+  report is resolved.
+
+Remediation and release timing depend on severity and complexity.
 
 ## CVE handling
 
